@@ -73,7 +73,7 @@ Used the **Heart Disease Dataset** to predict the presence of heart disease base
   By checking which features cause the largest reduction in impurity across the trees.
 
 - **Pros/Cons of Random Forests**  
-  - ✅ Pros: High accuracy, handles missing values, avoids overfitting  
-  - ❌ Cons: Less interpretable, more resource-intensive
+  - Pros: High accuracy, handles missing values, avoids overfitting  
+  - Cons: Less interpretable, more resource-intensive
 
 ---
